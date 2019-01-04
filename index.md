@@ -4,7 +4,7 @@ layout: default
 
 Launching Spring 2019.
 
-To learn more about how to become a founding member of the DiMe Professional Society, subscribe to our mailing list.
+To be the first to learn about exclusive member benefits of the DiMe Professional Society, subscribe to our mailing list.
 
 Build the future of digital medicine with us. 
 
@@ -18,7 +18,7 @@ Build the future of digital medicine with us.
 <div id="mc_embed_signup">
 <form action="https://dimesociety.us7.list-manage.com/subscribe/post?u=c01692fef722a213dd53a938d&amp;id=739494a72c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL">Subscribe to our mailing list</label>
+  <label for="mce-EMAIL"></label>
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c01692fef722a213dd53a938d_739494a72c" tabindex="-1" value=""></div>
