@@ -16,12 +16,12 @@ Build the future of digital medicine with us.
      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://elektralabs.us13.list-manage.com/subscribe/post?u=3ad932c8cb94fa94fdae03d70&amp;id=64ca9bf942" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://dimesociety.us7.list-manage.com/subscribe/post?u=c01692fef722a213dd53a938d&amp;id=739494a72c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL"></label>
+  <label for="mce-EMAIL">Subscribe to our mailing list</label>
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3ad932c8cb94fa94fdae03d70_64ca9bf942" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c01692fef722a213dd53a938d_739494a72c" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
